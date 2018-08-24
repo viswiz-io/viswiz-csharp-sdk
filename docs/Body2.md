@@ -1,0 +1,11 @@
+# VisWiz.SDK.Model.Body2
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Branch** | **string** | The branch which contains the build | 
+**Name** | **string** | The name (commit title) of the build | 
+**Revision** | **string** | The revision of the build | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
